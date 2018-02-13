@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Railay Beach",
+    "image": "https://media.gq.com/photos/594ee1bf92ae3c70e00797af/master/w_800/best-beaches-Railay-Beach-Thailand.jpg",
+    "location": "Thailand"
+  }, 
+  {
+    "id": 2,
+    "name": "Navagio Beach",
+    "image": "https://media.gq.com/photos/594ee1b09f9df80766e06092/master/w_640/best-beaches-Navagio-Beach-Greece.jpg",
+    "location": "Greece"
+  },
+  {
+    "id": 3,
+    "name": "Dry Tortugas",
+    "image": "https://media.gq.com/photos/594ee1c5ab1bf367206748a4/master/w_640/Dry-Tortugas-beach-Florida.jpg",
+    "location": "Florida"
+  },
+  {
+    "id": 4,
+    "name": "Playa del Amor",
+    "image": "https://www.nationalgeographic.com/content/dam/travel/2017-digital/best-beaches/playa-del-amor-mexico.ngsversion.1484776806920.adapt.885.1.jpg",
+    "location": "Mexico"
+  },
+  {
+    "id": 5,
+    "name": "One Foot Island ",
+    "image": "https://www.nationalgeographic.com/content/dam/travel/2017-digital/best-beaches/one-foot-island-aitutaki-cook-islands.ngsversion.1484776805559.adapt.885.1.jpg",
+    "location": "Cook Islands"
+  },
+  {
+    "id":6,
+    "name": "Thalasso Beach",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1wVcBJQWIc160T7BB3pqZbNvXLWB5AowP5i6JUw7bvNUa35dPpw",
+    "location": "Bora Bora"
+  },
+  {
+    "id": 7,
+    "name": "Destin Beach",
+    "image": "http://beachescapesrentals.com/custimages/HOliday%20Isle/Holiday-Isle.jpg",
+    "location": "Florida"
+  },
+  {
+    "id": 8,
+    "name": "Miami Beach",
+    "image": "https://img.grouponcdn.com/deal/3PhoR2zZX93PkiJVvSMZ/85-2048x1229/v1/c700x420.jpg",
+    "location": "Florida"
+  },
+  {
+    "id": 9,
+    "name": "Siest Key",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIuCXKjOMlLxY3oRLxrmrlnN_m6nfGD1Y2WC4xrIbyGL2iIxpbwg",
+    "Activity": "Biking",
+    "location": "Florida"
+  },
+  {
+    "id": 10,
+    "name": "Waikiki",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaxGJjdX81lgzBOoneuOu9bS-eGrKJld9D6ki2fMgQeAPBWLe",
+    "location": "Hawaii"
+  },
+  {
+    "id": 11,
+    "name": "Magens Bay",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNCPKq0IeU44yrQLKHawhy1nMHkWBktyI58oFlhvogaCzZOWlKA",
+    "location": "Saint Thomas"
+  },
+  {
+    "id": 12,
+    "name": "Clearwater Beach",
+    "image": "https://odis.homeaway.com/odis/listing/4ed08bbd-4c46-4d87-8242-c37742e9107f.c10.jpg",
+    "location": "Florida"
+  }
+]
