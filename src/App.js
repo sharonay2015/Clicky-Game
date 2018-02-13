@@ -4,6 +4,7 @@ import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
 import Nav from "./components/Nav";
 import beaches from "./beaches.json";
+import Footer from "./components/Footer";
 import "./App.css";
 
 class App extends Component {
@@ -79,7 +80,9 @@ class App extends Component {
             location={beach.location}
           />
         ))}
+       <Footer />
       </Wrapper>
+    
     );
   }
 }
